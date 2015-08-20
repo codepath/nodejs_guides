@@ -7,9 +7,9 @@
   "rules": {
     "curly": [2, "multi-line"],
     "no-throw-literal": 1,
-    "strict": "never",
+    "strict": [2, "never"],
     "semi": [2, "never"],
-    "quotes": "single",
+    "quotes": [2, "single"],
     "no-var": 1,
     "eol-last": 1,
     "no-new-require": 1,
